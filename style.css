@@ -1,0 +1,48 @@
+body{
+    
+    background-image: url(images/images2.jpg);
+    background-repeat:no-repeat;
+    background-position: right top;
+    background-size: 620px;
+    background-color: black;
+}
+
+        #circle{
+            border: 1px solid white;
+            width: 500px;
+            height: 500px;
+            border-radius: 50%;
+            opacity: 0.2;    
+            margin-top: -560px; 
+            margin-left: -30px;   
+        }
+        h1{
+            font-size: 400%;
+            margin-top: -30px;
+            margin-left: 370px;
+            color: white; 
+            font-weight: normal;
+        }
+        h4{
+            margin-left: 35%;
+            margin-top: 80px;
+            letter-spacing: 20px;
+            color: white;
+            
+        }
+        span{
+            color: rgb(214, 143, 11);
+            margin-left: 20px;
+        }
+        .vl{
+            border: 1px solid rgb(214, 143, 11);
+            width: 350px;
+            margin-left: 620px;
+            margin-top: 140px;
+            transform: rotate(-130deg);
+            
+        }
+        pre{
+            color: rgb(214, 143, 11);
+            margin-left: 20px;
+        }
